@@ -4,12 +4,12 @@ enum class SadTextFaces(val text: String) {
     Face1("ಥ_ಥ"),
     Face2("┐(‘～`；)┌"),
     Face3("●︿●"),
-    Face4("●︿●"),
+    Face4("v(ಥ ̯ ಥ)v"),
     Face5("(◕︵◕)"),
     Face6("o(╥﹏╥)o"),
-    Face7("●︿●"),
+    Face7("(✖╭╮✖)"),
     Face8("(∩︵∩)"),
-    Face9("ਉ_ਉ");
+    Face9("(◕﹏◕✿)");
 
     companion object {
 
