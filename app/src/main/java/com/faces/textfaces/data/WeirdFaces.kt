@@ -1,7 +1,7 @@
-package com.example.textfaces.data.faces
+package com.faces.textfaces.data
 
 
-enum class WeirdTextFaces(val text: String) {
+enum class WeirdFaces(val face: String) {
     Face1("ಠ◡ಠ"),
     Face2("⊂•⊃_⊂•⊃"),
     Face3("(″･ิ_･ิ)っ"),
@@ -16,9 +16,7 @@ enum class WeirdTextFaces(val text: String) {
 
         fun getAll(): List<String> {
             val textFace = mutableListOf<String>()
-
-            values().forEach { face -> textFace.add(face.text) }
-
+            values().forEach { face -> textFace.add(face.face) }
             return textFace.toList()
         }
     }

@@ -1,4 +1,4 @@
-package com.example.textfaces
+package com.faces.textfaces
 
 import org.junit.Test
 

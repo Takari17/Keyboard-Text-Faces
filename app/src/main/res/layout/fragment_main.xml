@@ -5,7 +5,7 @@
                                                    android:id="@+id/constraintLayout"
                                                    android:layout_width="match_parent"
                                                    android:layout_height="match_parent"
-                                                   tools:context=".ui.feature.textface.TextFaceFragment">
+                                                   tools:context=".ui.TextFaceFragment">
     <androidx.recyclerview.widget.RecyclerView
             android:layout_width="0dp"
             android:layout_height="0dp"

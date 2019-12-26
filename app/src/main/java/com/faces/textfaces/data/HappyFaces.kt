@@ -1,7 +1,7 @@
-package com.example.textfaces.data.faces
+package com.faces.textfaces.data
 
 
-enum class HappyTextFaces(val text: String) {
+enum class HappyFaces(val face: String) {
     Face1("(✿◠‿◠)"),
     Face2("(▰˘◡˘▰)"),
     Face3("(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"),
@@ -16,9 +16,7 @@ enum class HappyTextFaces(val text: String) {
 
         fun getAll(): List<String> {
             val textFace = mutableListOf<String>()
-
-            values().forEach { face -> textFace.add(face.text) }
-
+            values().forEach { face -> textFace.add(face.face) }
             return textFace.toList()
         }
     }

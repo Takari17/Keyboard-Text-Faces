@@ -10,7 +10,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.textfaces"
+        applicationId "com.faces.textfaces"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
@@ -37,6 +37,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
+
 
     //Fragment & Activity KTX
     implementation 'androidx.fragment:fragment-ktx:1.2.0-alpha01'
