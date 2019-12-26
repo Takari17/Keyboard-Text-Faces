@@ -1,4 +1,4 @@
-# TextFaces
+# Keyboard-Text-Faces
 Copy and paste various text faces
 
 <p float="left">
