@@ -7,3 +7,7 @@ Copy and paste various text faces
   <img src= "screenshots/screenshot3.png" width="250" />
   <img src= "screenshots/screenshot4.png" width="250" />
 </p>
+
+
+# Installation
+https://play.google.com/store/apps/details?id=com.faces.textfaces
