@@ -10,4 +10,4 @@ Copy and paste various text faces
 
 
 # Installation
-https://play.google.com/store/apps/details?id=com.faces.textfaces
+You can download it from the release [right here.](https://github.com/That1guy17/Keyboard-Text-Faces/releases/tag/v1.0)
